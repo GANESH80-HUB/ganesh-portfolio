@@ -1,0 +1,10 @@
+# Local IDE configuration and environment files
+.gemini/
+.agents/
+.git/
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+.env
