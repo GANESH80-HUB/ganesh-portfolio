@@ -1,5 +1,5 @@
 Instructions for Resume setup:
 
-1. Rename your resume PDF to "Ganesh's resume.pdf".
+1. Rename your resume PDF to "ganesh-resume.pdf" (lowercase, hyphenated).
 2. Move it to this directory: c:/Users/uppu4/OneDrive/Desktop/SHORTCUTS/Mine/My portfolio/assets/resume/
-3. The navbar View Resume button will immediately start opening this PDF in a new tab when clicked.
+3. The navbar View Resume button will immediately start opening this PDF in a new tab when clicked, both locally and on your deployed live website.
